@@ -13,7 +13,7 @@ Práctica de frontend para LAUNCHX, creación de una pagina web e-commerce de un
 # Muestras de la pagina 
 
 ### Pagina Principal (index).
-![Pagina Principal](/capturas/1.PNG)
+![Pagina Principal](/capturas/1.1.PNG)
 > Se muestra la página de inicio, como se puede observar se manejo un estilo de ventas, catalogo de productos.
 
 ### Pagina Pasteles.
